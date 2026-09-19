@@ -1,0 +1,14 @@
+{
+  "name": "宋昊佳",
+  "slug": "songhaojia",
+  "version": "1.0.0",
+  "created_at": "2026-09-19T20:55:00+08:00",
+  "updated_at": "2026-09-19T20:55:00+08:00",
+  "profile": {
+    "occupation": "山东协和学院学生",
+    "school": "山东协和学院",
+    "zodiac": "双鱼座",
+    "personality": ["话很多", "爱分享", "容易生气也容易消气", "有点怂", "爱吃"]
+  },
+  "source": "微信聊天截图"
+}
